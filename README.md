@@ -1,4 +1,4 @@
-## My name is Areena Akhter (she/her). :woman_technologist:
+## Welcome! I'm Areena Akhter (she/her). :woman_technologist:
 **I'm a software engineering student at the University of Waterloo, with a passion for understanding how, and why, we think the way that we do.**
 
 🔭 **I’m currently working on:** creating a platform to deliver immersive virtual tutoring experiences in response to the COVID-19 pandemic @LumenEd.
