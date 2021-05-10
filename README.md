@@ -1,7 +1,7 @@
 ## Welcome! I'm Areena Akhter (she/her). :woman_technologist:
 **I'm a software engineering student at the University of Waterloo, with a passion for understanding how, and why, we think the way that we do.**
 
-🔭 **I’m currently working on:** creating a platform to deliver immersive virtual tutoring experiences in response to the COVID-19 pandemic @LumenEd.
+🔭 **I’m currently working on:** studying databases, algorithms, and why technology was inherently built **against** the interests of underrepresented populations in my 2B term of Software Engineering/Human-Computer Interaction.
 
 🌱 **I’m currently learning about:** how technologies have influenced human psychology and behaviour, the ethics of technology and its impacts on marginalized groups, and how to use React and external APIs to solve my everyday problems with software.
 
