@@ -7,4 +7,4 @@
 
 👯 **I'm currently having fun with:** working out! I love rhythmic cycling and other forms of group fitness, as well as yoga, boxing, and running. Join me in a form of virtual fitness!
 
-📫 **How to reach me:** To learn more about my musings and contact me, visit my website! (currently in construction)
+📫 **How to reach me:** To learn more about my musings and contact me, read my blog [areenaakhter.medium.com]
